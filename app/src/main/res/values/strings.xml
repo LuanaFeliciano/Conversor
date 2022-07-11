@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="_0_00_p_s">0,00 pé(s)</string>
+    <string name="_0_00_m">0,00 m</string>
+    <string name="informe_sua_altura_em_metros">Informe sua Altura em Metros</string>
+    <string name="converter">Converter</string>
+    <string name="Converter">Converter</string>
+    <string name="txtMetros">0,00 m</string>
+</resources>
