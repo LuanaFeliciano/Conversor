@@ -10,4 +10,4 @@ Aplicativo Android feito em Java realizado com o estudo do livro: Desenvolvendo 
 * Java: linguagem de programação orientada a objetos
  
 ## Acessando o Código
-pasta
+App → Src → main → java/com/example/conversor → MainActivity.java
