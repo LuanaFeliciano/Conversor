@@ -11,3 +11,9 @@ Aplicativo Android feito em Java realizado com o estudo do livro: Desenvolvendo 
  
 ## Acessando o Código
 App → Src → main → java/com/example/conversor → MainActivity.java
+
+## Demostração
+<img  width="300px" height="350px" src="https://user-images.githubusercontent.com/98564118/178544322-75e72953-a17d-4992-82fc-322a84d61a0d.jpg">
+
+
+
